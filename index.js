@@ -7,3 +7,6 @@ function name(params) {
   params = params + 1
   return params
 }
+console.log(Login1)
+console.log(login2)
+console.log(login3)
